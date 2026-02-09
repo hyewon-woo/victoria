@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Hyewon Woo</title>
   </head>
   <body>
     <h1>Welcome :)</h1>
