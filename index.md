@@ -9,9 +9,9 @@
     <p>See the details of how this question extands to get to you.</p>
     
   <nav>
-  <a href="./">Home</a>
-  <a href="./worklogs">Work Logs</a>
-  <a href="./product">readYou</a>
+  <a href="./">Home</a> |
+  <a href="./worklogs/">Work Logs</a> |
+  <a href="./product/">readYou</a>
   </nav>
 
   </body>
