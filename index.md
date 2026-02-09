@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1>Welcome :)</h1>
-    <p>This is my public website.</p>
-    <p>I’ll be posting work logs and projects here soon.</p>
+    <p>readYou is all about asking one question: "How are you?"</p>
+    <p>See the details of how this question extands to get to you.</p>
   </body>
 </html>
